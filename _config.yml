@@ -494,7 +494,7 @@ giscus:
   repo:
   repo_id:
   category_id:
-  theme:
+  theme: butterfly
     light: light
     dark: dark
   option:
@@ -802,7 +802,7 @@ abcjs:
 mermaid:
   enable: false
   # built-in themes: default/forest/dark/neutral
-  theme:
+  theme: butterfly
     light: default
     dark: dark
 
